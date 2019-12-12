@@ -1,32 +1,15 @@
-# Prerequisites
-*.d
+*
+!/**/
+!.gitignore
+!RecreateProject.tcl
+!fastqz_fxa_0.srcs/sources_1/new/reset_185u.v
+!fastqz_fxa_0.srcs/sources_1/bd/fastqz_fxa/fastqz_fxa.bd
+!fastqz_fxa_0.srcs/sources_1/bd/fastqz_fxa/hdl/fastqz_fxa_wrapper.v
+!fastqz_fxa_0.srcs/sources_1/bd/fastqz_fxa/ip/fastqz_fxa_mig_7series_0_0/mig_a.prj
+!fastqz_fxa_0.srcs/sources_1/bd/fastqz_fxa/ip/fastqz_fxa_mig_7series_0_1/mig_a.prj
+!fastqz_fxa_0.srcs/sources_1/bd/fastqz_fxa/ip/fastqz_fxa_mig_7series_0_1/mig_b.prj
+!fastqz_fxa_0.srcs/constrs_1/new/pins.xdc
+!fastqz_fxa_0.srcs/constrs_1/new/timing.xdc
+!fastqz_fxa_0.srcs/constrs_1/new/bitstream.xdc
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+!ip_repo/**
