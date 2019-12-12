@@ -3,3 +3,4 @@
 *.tcl linguist-language=SystemVerilog
 *.sv linguist-language=SystemVerilog
 *.v linguist-language=SystemVerilog
+*.vhd linguist-language=SystemVerilog
