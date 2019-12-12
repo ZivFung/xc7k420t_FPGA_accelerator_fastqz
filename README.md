@@ -14,4 +14,7 @@
 # Software
   The software of this accelerator another repository "xk7c420t_fastqz_fxa_dual_channel".  
     
-  The software is used to control FPGA card through PCIe and transmission of data.
+  The software is used to control FPGA card through PCIe and transmission of data.  
+# Algorithm
+  The gene sequencing data algorithm FASTQZ website is:
+  http://mattmahoney.net/dc/fastqz/
